@@ -1,3 +1,3 @@
 # COMP4711-lab-1
 
-Hello!
+COMP4711 Lab 1  
